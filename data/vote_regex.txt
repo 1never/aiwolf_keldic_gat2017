@@ -1,0 +1,4 @@
+.*《AGENTNAME》に投票
+.*投票先?は《AGENTNAME》
+.*投票するのは《AGENTNAME》
+.*《AGENTNAME》を追放
