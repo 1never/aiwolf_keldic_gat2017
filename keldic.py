@@ -60,7 +60,7 @@ class Keldic(object):
         self.agent.dayStart(self.game_info)
         return None
 
-    def update(self, game_info, talk_history, whisper_history):
+def update(self, game_info, talk_history, whisper_history, request=None):
         self.game_info = game_info
         self.talk_history = talk_history
         self.whisper_history = whisper_history
